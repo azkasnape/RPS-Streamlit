@@ -1,4 +1,4 @@
-![alt](RPS-Streamlit/screenshots)
+![alt text](https://github.com/azkasnape/RPS-Streamlit/blob/main/screenshots/Logo_umm.png)
 /Logo_umm.png)
 # **ROCK PAPER SCISSORS PREDICTION WITH STREAMLIT**
 ___
