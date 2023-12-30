@@ -43,7 +43,8 @@ Model mencapai akurasi tinggi pada data pelatihan dan validasi.
 Tidak terlihat tanda-tanda overfitting atau underfitting yang signifikan.
 Model dapat digunakan untuk klasifikasi gambar rock, paper, dan scissors dengan performa yang baik pada dataset yang digunakan.
 ![alt text](https://github.com/azkasnape/RPS-Streamlit/blob/main/screenshots/Training.png)
+![alt text](https://github.com/azkasnape/RPS-Streamlit/blob/main/screenshots/Graph.png)
 
 ### Prediction and Deployment on Streamlit
-![alt text](https://github.com/azkasnape/RPS-Streamlit/blob/main/screenshots/Prediction Result Model.png)
+![alt text](https://github.com/azkasnape/RPS-Streamlit/blob/main/screenshots/PredictionResultModel.png)
 ![alt text](https://github.com/azkasnape/RPS-Streamlit/blob/main/screenshots/Streamlit.png)
